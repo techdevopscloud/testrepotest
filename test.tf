@@ -1,4 +1,4 @@
-/* provider "google" {
+ provider "google" {
   project = "mygcptestproject-437406"
   region  = "us-central1"
 }
@@ -21,4 +21,4 @@ resource "google_compute_instance" "my_vm" {
     }
   }
 
-} */
+} 
